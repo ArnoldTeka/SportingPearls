@@ -708,3 +708,13 @@ figure figcaption {
   height: 60vh; /* 60% of the viewport height */
   min-height: 400px; /* Minimum height to avoid shrinking too much */
 }
+/* Logo styling */
+.site-logo img {
+  max-width: 200px; /* Adjust width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
+/* Optional: Add hover effect */
+.site-logo img:hover {
+  opacity: 0.8; /* Slight transparency on hover */
+}
