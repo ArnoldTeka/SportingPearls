@@ -705,12 +705,12 @@ figure figcaption {
           color: #fff;
           background: #293A8E; }
 .hero-wrap {
-  height: 40vh; /* 60% of the viewport height */
+  height: 80vh; /* 60% of the viewport height */
   min-height: 400px; /* Minimum height to avoid shrinking too much */
 }
 /* Logo styling */
 .site-logo img {
-  max-width: 100px; /* Adjust width as needed */
+  max-width: 50px; /* Adjust width as needed */
   height: auto; /* Maintain aspect ratio */
 }
 
