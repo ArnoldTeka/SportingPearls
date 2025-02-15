@@ -710,7 +710,7 @@ figure figcaption {
 }
 /* Logo styling */
 .site-logo img {
-  max-width: 45px; /* Adjust width as needed */
+  max-width: 65px; /* Adjust width as needed */
   height: auto; /* Maintain aspect ratio */
 }
 
