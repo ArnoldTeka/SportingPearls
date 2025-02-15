@@ -704,3 +704,7 @@ figure figcaption {
         .comment-list li .comment-body .reply:hover {
           color: #fff;
           background: #293A8E; }
+.hero-wrap {
+  height: 60vh; /* 60% of the viewport height */
+  min-height: 400px; /* Minimum height to avoid shrinking too much */
+}
